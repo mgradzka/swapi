@@ -100,7 +100,6 @@ export default {
 
         isLoading.value = false;
         isData.value = true;
-        console.log(data.results);
         peopleData.value = data.results;
 
        

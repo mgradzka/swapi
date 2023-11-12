@@ -98,7 +98,7 @@ table tbody tr:nth-of-type(even) {
 }
 
 table tbody tr:nth-of-type(odd) {
-  background-color: rgb(9,9,9);
+  background-color: rgb(12,12,12);
   color: rgba(255, 255, 255, 0.8);
 }
 
